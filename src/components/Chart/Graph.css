@@ -1,0 +1,19 @@
+.Graph{
+    /* width:100%; */
+    display: flex;
+    /* justify-content: center; */
+
+}
+
+.Charts{
+    display: flex;
+    justify-content: center;
+}
+
+.chart{
+    padding: 10px 15px 2px 20px;
+}
+
+#root > div > div > div > div > div.Charts > div > div:nth-child(1) > div{
+    padding-left: 10px;
+}
